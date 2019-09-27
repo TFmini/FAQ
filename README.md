@@ -104,6 +104,8 @@ A: After sending configuration commands, the waiting time is too short (below 30
   A：The reason for this is that the converter used may be USB to RS232, not USB-TTL serial port converter. USB-TTL is recommended to avoid this situation. Reference：
 https://www.amazon.com/DSD-TECH-Converter-Compatible-Windows/dp/B072K3Z3TL/ref=sr_1_10?keywords=TTL-USB&qid=1567404735&s=gateway&sr=8-10
 
+---
+
 # TFmini-Plis-FAQ 
 1. Q: how many meters can the serial port cable be extended? How to achieve long-distance communication?  
 A: It is not recommended that the maximum distance of the connection cables supported by TTL interface communication should be more than 2m. Switch board can be selected to realize long-distance communication through other interfaces.
